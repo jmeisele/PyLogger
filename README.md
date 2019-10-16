@@ -1,4 +1,4 @@
-# Demo of Python's built in logging
+# Logging in Python applications
 --------------------
 [Native Documentation](https://docs.python.org/2/library/logging.html)
 
